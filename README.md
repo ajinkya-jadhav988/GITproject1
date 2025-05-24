@@ -1,2 +1,1 @@
-# GITproject1
-my first git project 
+this is my first remote repository. 
